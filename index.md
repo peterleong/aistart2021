@@ -15,11 +15,9 @@
 Activities
 * [Bubble Sort Algorithm Demo - https://www.toptal.com/developers/sorting-algorithms/bubble-sort](https://www.toptal.com/developers/sorting-algorithms/bubble-sort)
 * [Make Girls GAN Demo - http://make.girls.moe](http://make.girls.moe)
-* [IBM Watson Bear Naked Custom Granola - https://www.bearnakedcustom.com/BearNaked](https://www.bearnakedcustom.com/BearNaked)
-* [Deep Dream Generator - https://deepdreamgenerator.com/](https://deepdreamgenerator.com/)
 * [Machine Learning Playground - https://peterleong.github.io/ML-Playground/](https://peterleong.github.io/ML-Playground/)
 * [Tensorflow Playground - https://playground.tensorflow.org/](https://playground.tensorflow.org/)
-* [Visualization of Convolutional Neural Networks - http://scs.ryerson.ca/~aharley/vis/](http://scs.ryerson.ca/~aharley/vis/)
+* [Visualization of Convolutional Neural Networks - https://www.cs.cmu.edu/~aharley/vis/](https://www.cs.cmu.edu/~aharley/vis/)
 * [Convnetjs MNIST Demo - https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 
 #### Part 2
@@ -40,6 +38,7 @@ Additional
 * [AI Demos - Microsoft](https://aidemos.microsoft.com/)
 * [Pix2Pix Demo](https://affinelayer.com/pixsrv/)
 * [Deep Fake](https://thispersondoesnotexist.com/)
+* [Stylegan Web Explorer](https://awesomeopensource.com/project/k-l-lambda/stylegan-web)
 
 Problem Framing
 * [Google ML Problem Framing - https://developers.google.com/machine-learning/problem-framing/](https://developers.google.com/machine-learning/problem-framing/)
