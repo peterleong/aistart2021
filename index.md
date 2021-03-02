@@ -55,6 +55,7 @@ Problem Framing
 #### Part 3-4
 Activities/Lab
 * [Azure ML Studio - https://studio.azureml.net/](https://studio.azureml.net/)
+* [Machine Learning Workflow by Data Professor](https://figshare.com/articles/figure/Building_The_Machine_Learning_Model/11492316)
 
 Datasets
 * [Google Dataset Search - https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch)
